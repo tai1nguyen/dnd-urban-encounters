@@ -1,10 +1,12 @@
-## Mistaken Identity
+## Description
 As the characters go about their day, a tax offical mistakens a character in the party for a known tax evader. He starts to hound the characters and demand that they pay their dues.
 
 The tax collector will not take "no" for an answer and will not leave them alone until they either, flee and successfully lose him in the city streets, or repay the sum of coin he demands.
 
 ### Hook
->You walk down Fifth Avenue searching for a butcher shop. You are running low on meats and in need of a resupply. Across the street you spy a man dressed in a fine red and gold uniform. It takes several moments before you realize that the uniform belongs to the tax collection arm of the government. Your eyes briefly meet before you turn the corner and head down a separate road.
+While navigating the busy streets, a tax collector notices a character and approaches.
+
+>You walk down Fifth Avenue and across the street you spy a man dressed in a fine green and gold uniform. It takes several moments before you realize that the uniform belongs to the tax collection arm of the government. Your eyes briefly meet before you turn the corner and head down a separate road.
 >
 >You get ten paces in before you hear a voice calling you from behind. You turn to see the tax collector hurrying over to you.
 >

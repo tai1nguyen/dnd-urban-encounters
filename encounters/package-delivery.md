@@ -1,11 +1,11 @@
-## Package Delivery
+## Description
 A courier needs help deliverying a package to a wealthy merchant. The package must reach its destination unopened, undamaged and within a timely manner. A gang of thieves is targeting the package. They will do what they can to steal it.
 
 The courier offers to split the reward with the characters once the delivery has been made. He arranges for them to meet at a local tavern later that day.
 
 Roll on the table below to determine the contents of the package.
 
-| 1d6 | Contents                  |
+| d6  | Contents                  |
 |-----|---------------------------|
 | 1   | A priceless piece of art  |
 | 2   | A large gemstone          |
@@ -15,13 +15,15 @@ Roll on the table below to determine the contents of the package.
 | 6   | A large sum of gold coins |
 
 ### Hook
+While navigating the busy streets of the town, the characters notice a local courier in a state of stress.
+
 >You spy a man holding a large wrapped box in his hands. He is sweating and leaning against the side of a building, catching his breath. The man sports a blue and silver uniform that tells you he is a courier.
 >
->After several seconds he places the box down and sits on it. His head swivels back and forth on his neck as he scans the room for something. From amidst the crowd your eyes meet and he immediately waves you over...
+>After several seconds he places the box down and sits on it. His head swivels back and forth on his neck as he scans around him for something. From amidst the crowd your eyes meet and he immediately waves you over...
 {.read}
 
 ### A Persuer in the Crowd
-As the characters make their way to the merchant's home they leave the tight alley ways and streets of smaller neighborhoods and merge into the bustling crowd of the city's main throughfares. A character who succeeds a DC 9 passive Wisdom (Perception) check notices that they are being followed, by a single individual.
+As the characters make their way to the merchant's home they leave the tight alley ways and streets of smaller neighborhoods and merge into the bustling crowd of the city's main throughfares. A character who succeeds a DC 10 passive Wisdom (Perception) check notices that they are being followed, by a single individual.
 
 The thief does not make a move against the characters and only observes them for several minutes before disappearing back into the crowd.
 

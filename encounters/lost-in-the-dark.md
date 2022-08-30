@@ -1,7 +1,9 @@
-## Lost in the Dark
+## Description
 A small tiefling child stumbles into the tavern a little before closing time. The child is named **Madeg** and earlier that day she was playing in the sewer with her little brother, **Arron**. The two were separated when a giant sewer rat attacked. Madeg needs help finding her little brother and is too scared to go back alone. She doesn't want to ask her parents because she doesn't want both of them to get punished.
 
 ### Hook
+While enjoying drinks at the local tavern, the characters spot a small child making their way across the crowded room.
+
 >You notice a small tiefling child squeezing in through the door.
 >
 >The girl has noticeable filth on her dark brown hair and stains of varying color cover her dress in uneven patches. A distinct stench of rot and decay emenate from her as she made her way past the tables and diners. As she moved through the tavern she asks any one she comes across for help. Most ignore her, some, visibily disgusted at her appearance, leave.
@@ -22,32 +24,36 @@ The following areas correspond to the labels on the provided map.
 ### 1. Entrance Room
 No matter how hard they try, the smell of sewage seeps into the nose of anyone that enters this room.
 
-There is a garbage and trash piled into the center of the room. A hole in the ceiling sits directly over the pile of refuse.
+There are garbage and trash piled into the center of the room. A hole in the ceiling sits directly over the pile of refuse.
 
-The room has two doors leading outwards. They are both shut. One door sits on the eastern wall and the other on the western wall.
+The room has three doors leading outwards. They are all shut. One door sits on the eastern wall and the other on the western wall. A grated door stands to the north. Water from the empty room (area 2) seeps through the door and into this room. It is too dark to see into the room on the other side of this door.
 
-A grated door stands to the north. Water from the flooded room (area 4) seeps through the door and into the entrance room. It is too dark to see into the room on the other side of this door.
+The grated door is operated via a system of pullies and can only be opened by being pushed and held up off the ground. 
 
-The grated door is operated via a system of pulls and can only be opened by being pushed and held up off the ground. A crank sits next to the left of the door. It is stuck and a character succeeding a DC 10 Strength (Athletics) check is able to force it to turn, opening the eastern door. A character beating a DC 14 Strength (Athletics) check may hold the door up long enough for everyone to move through it.
+A crank sits to the left of the grated door. It is stuck and a character succeeding a DC 10 Strength (Athletics) check is able to force it to turn, opening the grated door. A character beating a DC 14 Strength (Athletics) check may hold the door up long enough for everyone to move through it.
+
+The door to the west and stuck and cannot be open without force.
 
 ### 2. Empty Room
 In the center of the room is a large pile of garbage. A swarm of rats is hidden within it. The rats attack if any characters inspect or approaches the pile of rubbish.
 
-The door to the north of the room is close but not locked.
+The door to the west of the room is close but not locked. The room opens to the east into the big empty room. The door at the south is grated and the entrance room can be seen.
 
-### 3. Big Empty Room
-There are more piles of garbage in this room. The smell of rotting meat and feces in this rooms makes the characters want to vomit. Characters entering this room must succeed a DC 10 Constitution saving throw or vomit.
+### 3. Ruined Temple
+The room is filled with sharp debris and trash, characters moving in this room must succeed a DC 10 Dexterity saving throw or take 1d4 piercing damage from the hidden debris.
 
-Four giant rats have made their home here and when a character enters the center of the room, or makes a loud noise, the rats pour out to defend their home.
+An altar sits against the western wall. The candles stationed on it have long since gone out. A chest is hidden under the altar.
 
-This room opens to a smaller room to the north.
+The chest contains 10d6 gp and a book written in an unknown language.
 
-A door to the east is shut and closes off the room.
+The room opens up to the north to the flood room (area 4), and a door to the east separates this room from (area 2). The room opens up to the south to the abandoned alchemist lab (area 5).
 
 ### 4. Flooded Room
 The walls to this room are surprisingly clean. Aside from the sewer water leaking onto the floor, this room is unnecessarily tidy.
 
 As the characters explore, an ooze rises from the murky water and attacks. A character must succeed a DC 15 passive Wisdom (Perception) check to notice the ooze before it strikes.
+
+The room opens up in the south towards the ruined temple (area 3).
 
 ### 5. Abandoned Alchemist Lab
 Junk and trash are scattered all around the room making it difficult for the characters to see where they are going. Characters moving in this room must succeed a DC 10 Dexterity saving throw or take 1d4 piercing damage from the hidden debris.
@@ -56,14 +62,18 @@ Arron stands on a small alchemy table, he is clutching a small club and is surpr
 
 The alchemy table has miscellaneous ingredients that are too wasted away to be of use.
 
-### 6. Dilapidated Temple
-The room is filled with sharp debris and trash, characters moving in this room must succeed a DC 10 Dexterity saving throw or take 1d4 piercing damage from the hidden debris.
+The room opens up to the north to the ruined temple (area 3). The door to the east is shut.
 
-An altar sits against the northern wall. The candles stationed on it have long since gone out. A chest is hidden under the altar.
+### 6. Big Empty Room
+There are more piles of garbage in this room. The smell of rotting meat and feces in this rooms makes the characters want to vomit. Characters entering this room must succeed a DC 10 Constitution saving throw or vomit.
 
-The chest contains 10d6 gp and a book written in an unknown language.
+Four giant rats have made their home here and when a character enters the center of the room, or make a loud noise, the rats pour out to defend their home.
 
-### Map
+This room opens to a the empty room (area 2) to the north west.
+
+The door to the south west is shut.
+
+### [Map](https://watabou.github.io/one-page-dungeon/?seed=2018811267&tags=compact,single-level,no%20secrets,flooded,medium)
 ![Lost in the Dark Map](../references/map-lost-in-the-dark.svg)
 
 ## Conclusion

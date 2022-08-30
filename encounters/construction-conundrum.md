@@ -1,9 +1,11 @@
-## Construction Conundrum
+## Description
 Whester, a local construction foreman, stumbles into the bar late one night and requests help from anyone that will listen. His construction crew has been working on tearing down an old warehouse on the wharf but recently a gray beast with wings has been harrassing the nightshift workers.
 
 The City Watch was informed and have committed to helping him but they are not experts and have been unable to deal with the beast.
 
 ### Hook
+While enjoying a drink at the local tavern, a dwarf gathers the attention of all the current patrons.
+
 >A barrel chested dwarf stumbles through the tavern doors. He wears clothes marking him as part of the Builders Guild. He slowly makes his way over to the bar. Upon closer inspection you can tell that the man is clearly exhuasted.
 >
 >After downing his drink, and finding his courage, the man gets up on his chair and introduces himself to the tavern as Whester, the local construction foreman. He explains that he and his team of builders have been tasked with demolishing an aging warehouse down by the wharf. Unfortunately, shortly after the work began his men were attacked by a wild beast. The creature only appears at night and has killed three of his men so far.
