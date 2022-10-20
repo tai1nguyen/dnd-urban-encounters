@@ -1,6 +1,16 @@
 ## Description
 A small tiefling child stumbles into the tavern a little before closing time. The child is named **Madeg** and earlier that day she was playing in the sewer with her little brother, **Arron**. The two were separated when a giant sewer rat attacked. Madeg needs help finding her little brother and is too scared to go back alone. She doesn't want to ask her parents because she doesn't want both of them to get punished.
 
+#### Content
+- Areas:
+    - [1. Entrance Room](#1-entrance-room)
+    - [2. Empty Room](#2-empty-room)
+    - [3. Ruined Temple](#3-ruined-temple)
+    - [4. Flood Room](#4-flooded-room)
+    - [5. Abandoned Alchemist Lab](#5-abandoned-alchemist-lab)
+    - [6. Big Empty Room](#6-big-empty-room)
+- [Map](#map)
+
 ### Hook
 While enjoying drinks at the local tavern, the characters spot a small child making their way across the crowded room.
 
@@ -21,7 +31,7 @@ If the characters refuse to help Madeg, she leaves in tears and her brother is n
 ## Sewers Interior
 The following areas correspond to the labels on the provided map.
 
-### 1. Entrance Room
+### 1. Entrance Room [^](#content)
 No matter how hard they try, the smell of sewage seeps into the nose of anyone that enters this room.
 
 There are garbage and trash piled into the center of the room. A hole in the ceiling sits directly over the pile of refuse.
@@ -34,12 +44,12 @@ A crank sits to the left of the grated door. It is stuck and a character succeed
 
 The door to the west and stuck and cannot be open without force.
 
-### 2. Empty Room
+### 2. Empty Room [^](#content)
 In the center of the room is a large pile of garbage. A swarm of rats is hidden within it. The rats attack if any characters inspect or approaches the pile of rubbish.
 
 The door to the west of the room is close but not locked. The room opens to the east into the big empty room. The door at the south is grated and the entrance room can be seen.
 
-### 3. Ruined Temple
+### 3. Ruined Temple [^](#content)
 The room is filled with sharp debris and trash, characters moving in this room must succeed a DC 10 Dexterity saving throw or take 1d4 piercing damage from the hidden debris.
 
 An altar sits against the western wall. The candles stationed on it have long since gone out. A chest is hidden under the altar.
@@ -48,14 +58,14 @@ The chest contains 10d6 gp and a book written in an unknown language.
 
 The room opens up to the north to the flood room (area 4), and a door to the east separates this room from (area 2). The room opens up to the south to the abandoned alchemist lab (area 5).
 
-### 4. Flooded Room
+### 4. Flooded Room [^](#content)
 The walls to this room are surprisingly clean. Aside from the sewer water leaking onto the floor, this room is unnecessarily tidy.
 
 As the characters explore, an ooze rises from the murky water and attacks. A character must succeed a DC 15 passive Wisdom (Perception) check to notice the ooze before it strikes.
 
 The room opens up in the south towards the ruined temple (area 3).
 
-### 5. Abandoned Alchemist Lab
+### 5. Abandoned Alchemist Lab [^](#content)
 Junk and trash are scattered all around the room making it difficult for the characters to see where they are going. Characters moving in this room must succeed a DC 10 Dexterity saving throw or take 1d4 piercing damage from the hidden debris.
 
 Arron stands on a small alchemy table, he is clutching a small club and is surprised to see the characters. The two rats that had him cornered are hidden in the corners of the room. As soon as the characters enter the rats attack.
@@ -64,17 +74,16 @@ The alchemy table has miscellaneous ingredients that are too wasted away to be o
 
 The room opens up to the north to the ruined temple (area 3). The door to the east is shut.
 
-### 6. Big Empty Room
-There are more piles of garbage in this room. The smell of rotting meat and feces in this rooms makes the characters want to vomit. Characters entering this room must succeed a DC 10 Constitution saving throw or vomit.
+### 6. Big Empty Room [^](#content)
+There are more piles of garbage in this room. The smell of rotting meat and feces in this rooms makes the characters want to vomit. Characters entering this room must succeed a DC 10 Constitution saving throw or vomit loudly.
 
 Four giant rats have made their home here and when a character enters the center of the room, or make a loud noise, the rats pour out to defend their home.
 
-This room opens to a the empty room (area 2) to the north west.
+This room opens to the empty room (area 2) to the north west. The door to the south west is shut and leads back to the entrance room (area 1).
 
-The door to the south west is shut.
-
-### [Map](https://watabou.github.io/one-page-dungeon/?seed=2018811267&tags=compact,single-level,no%20secrets,flooded,medium)
+### Map [^](#content)
 ![Lost in the Dark Map](../references/map-lost-in-the-dark.svg)
+[link to map](https://watabou.github.io/one-page-dungeon/?seed=2018811267&tags=compact,single-level,no%20secrets,flooded,medium)
 
 ## Conclusion
 Once reunited, Madeg and Arron thank you profusely for your help. The two promise to never go back to the sewers again and immediately return home. You find out later that they had both gotten scolded by their parents for going into the sewers because they had returned home reeking of sewage.
